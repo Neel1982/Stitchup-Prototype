@@ -1,16 +1,3 @@
-# StitchUp - Complete Mobile App Code
-
-## Team: ShunyaCode
-- **Leader:** Riya Laxmayya Gorantla (369)
-- **Member:** Neel Ganesh Gaikwad (415)
-- **Project:** StitchUp - On-Demand Tailoring Platform
-- **Theme:** On-Demand Services & Digital Marketplace
-
----
-
-## 📁 Project Structure
-
-```
 StitchUp/
 ├── index.html          # Main HTML file
 ├── styles/
